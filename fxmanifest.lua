@@ -21,9 +21,8 @@ shared_scripts {
 ui_page 'html/index.html'
 
 files {
-    'html/index.html',
-    'html/*.css',
+	'html/index.html',
+	'html/*.css',
 	'html/*.js',
-	'html/images/*.png',
-    'html/sounds/*.ogg',
+	'html/sounds/*.ogg',
 }
